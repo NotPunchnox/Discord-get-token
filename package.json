@@ -1,0 +1,25 @@
+{
+  "name": "discord-get-token",
+  "version": "1.0.0",
+  "description": "discord get token (email, password)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "nexe"
+  },
+  "author": "punchnox",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotPunchnox/Discord-get-token.git"
+  },
+  "keywords": [
+    "discord",
+    "get",
+    "token"
+  ],
+  "bugs": {
+    "url": "https://github.com/NotPunchnox/Discord-get-token/issues"
+  },
+  "homepage": "https://github.com/NotPunchnox/Discord-get-token#readme"
+}
