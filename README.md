@@ -1,5 +1,5 @@
 # Discord-get-token
-Vous permet de récupérer votre token via un email et mot de passe (marrche pour les token a2f\no a2f)
+Vous permet de récupérer votre token via un email et mot de passe (marche pour les token a2f\no a2f)
 
 
 pour créer le .exe vous lancez le fichier install.bat vous attendez que l'installation soit finie puis vous lancez build.bat et voila
